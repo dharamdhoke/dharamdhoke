@@ -1,0 +1,105 @@
+```mjml
+<mjml>
+  <mj-body background-color="#fff" width="600px">
+    <!-- Top Orange Section with Logo and Image -->
+    <mj-section background-color="#f47c20" padding="25px 20px 15px 20px" border-radius="40px 40px 0 0">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="20px" font-family="Arial, sans-serif" font-weight="bold" padding="0 0 5px 0" line-height="22px">
+          transform<small style="font-weight:100">e</small><span style="font-weight:bold;">✕</span>
+        </mj-text>
+        <mj-text align="center" color="#fcd6b3" font-size="13px" font-family="Arial, sans-serif" padding="0 0 25px 0" line-height="15px">
+          Follow the powerful stories of change.
+        </mj-text>
+        <mj-image 
+          src="https://placehold.co/400x400?text=Photo" 
+          alt="Meet Sarah" 
+          width="400px" 
+          padding="0"
+          border-radius="90px"
+        ></mj-image>
+
+        <mj-text align="center" color="#431700" font-size="11px" font-family="Arial, sans-serif" font-weight="600" background-color="#f9b37a" padding="10px 45px" border-radius="20px" line-height="14px" letter-spacing="0.6px" text-transform="uppercase" margin="20px auto 10px auto" width="215px">
+          TEXTILE ARTIST AT CUSH:ON
+        </mj-text>
+
+        <mj-text align="center" color="#ffffff" font-size="28px" font-family="Arial, sans-serif" font-weight="bold" padding="0 0 15px 0" line-height="30px">
+          Meet Sarah
+        </mj-text>
+
+        <mj-text align="center" color="#f14400" font-size="18px" font-family="Arial, sans-serif" font-weight="bold" padding="0 40px 15px 40px" line-height="22px">
+          Artist, Ocean breeze-lover, LA historian, Human Rights Unicorn
+        </mj-text>
+
+        <mj-text align="center" color="#eebb75" font-size="11px" font-family="Arial, sans-serif" padding="0 40px 15px 40px" line-height="14px">
+          The prints you wear every day have been lovingly created by our resident Textile Print Designer, Sarah. Yes, that means the Unicorns you wear on your booty have been drawn by hand. Can you believe?! Sarah is an illustrator with 15 years of experience, and she’s been with TransformMe for over two years. Sarah absolutely loves creating for our customers, and her style is one of a kind.
+        </mj-text>
+
+        <mj-button background-color="#f47c20" color="#fff" padding="10px 60px" border-radius="50px" href="#" font-family="Arial, sans-serif" font-weight="bold" font-size="14px" text-transform="uppercase" line-height="20px" letter-spacing="0.6px">SHOP SARAH’S COLLECTION</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Three Section Styles: Indonesian, Contemporary, Arabic -->
+    <mj-section background-color="#fbe9da" padding="20px 20px 20px 20px">
+      <!-- Indonesian Styles -->
+      <mj-column width="33.33%">
+        <mj-image src="https://placehold.co/150x100?text=Indonesian+Textile" alt="Indonesian Styles" padding="0 0 10px 0" />
+        <mj-text align="left" color="#f14400" font-size="16px" font-family="Arial, sans-serif" font-weight="bold" padding="0 0 8px 0" line-height="20px">
+          Indonesian Styles
+        </mj-text>
+        <mj-text align="left" color="#6d6d6d" font-size="12px" font-family="Arial, sans-serif" padding="0 0 15px 0" line-height="15px">
+          A traditional Indonesian textile art that creates unique patterns using a wax-resist dyeing technique.
+        </mj-text>
+        <mj-button background-color="#f47c20" color="#fff" padding="5px 20px" border-radius="12px" href="#" font-family="Arial, sans-serif" font-weight="bold" font-size="13px" text-transform="uppercase" line-height="16px">EXPLORE DETAILS</mj-button>
+      </mj-column>
+
+      <!-- Contemporary Styles -->
+      <mj-column width="33.33%">
+        <mj-text align="left" color="#f14400" font-size="16px" font-family="Arial, sans-serif" font-weight="bold" padding="0 0 8px 0" line-height="20px">
+          Contemporary
+        </mj-text>
+        <mj-text align="left" color="#6d6d6d" font-size="12px" font-family="Arial, sans-serif" padding="0 0 15px 0" line-height="15px">
+          Modern textile design combines old methods with new styles, using creative materials and technologies.
+        </mj-text>
+        <mj-button background-color="#f47c20" color="#fff" padding="5px 20px" border-radius="12px" href="#" font-family="Arial, sans-serif" font-weight="bold" font-size="13px" text-transform="uppercase" line-height="16px">EXPLORE DETAILS</mj-button>
+      </mj-column>
+
+      <mj-column width="33.33%">
+        <mj-image src="https://placehold.co/150x100?text=Contemporary+Textile" alt="Contemporary Styles" padding="0 0 10px 0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Arabic Styles Section -->
+    <mj-section background-color="#fbe9da" padding="0 20px 20px 20px">
+      <mj-column width="33.33%">
+        <mj-image src="https://placehold.co/150x100?text=Arabic+Textiles" alt="Arabic Styles" padding="0 0 10px 0" />
+      </mj-column>
+
+      <mj-column width="66.66%">
+        <mj-text align="left" color="#f14400" font-size="16px" font-family="Arial, sans-serif" font-weight="bold" padding="10px 0 8px 20px" line-height="20px">
+          Arabic Styles
+        </mj-text>
+        <mj-text align="left" color="#6d6d6d" font-size="12px" font-family="Arial, sans-serif" padding="0 0 15px 20px" line-height="15px">
+          Arabic textiles are renowned for their intricate designs, vibrant colors, and luxurious materials.
+        </mj-text>
+        <mj-button background-color="#f47c20" color="#fff" padding="5px 20px" border-radius="12px" href="#" font-family="Arial, sans-serif" font-weight="bold" font-size="13px" text-transform="uppercase" line-height="16px" padding-left="20px">EXPLORE DETAILS</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Her Creative Space Section -->
+    <mj-section background-color="#f9f0e7" padding="25px 20px 25px 20px" border-radius="40px">
+      <mj-column>
+        <mj-image src="https://placehold.co/400x200?text=Her+Creative+Space" alt="Her Creative Space" padding="0 0 20px 0" border-radius="90px" />
+        <mj-text align="center" color="#f14400" font-size="18px" font-family="Arial, sans-serif" font-weight="bold" padding="0 20px 10px 20px" line-height="22px">
+          Her Creative Space
+        </mj-text>
+        <mj-text align="center" color="#906c52" font-size="12px" font-family="Arial, sans-serif" padding="0 40px 15px 40px" line-height="18px">
+          My desk energizes me. I can flow without pressure, listen to music, and create energy with the flow of the pencil.
+        </mj-text>
+        <mj-button background-color="#f47c20" color="#fff" padding="10px 60px" border-radius="50px" href="#" font-family="Arial, sans-serif" font-weight="bold" font-size="14px" text-transform="uppercase" line-height="20px" letter-spacing="0.6px">SHOP SARAH’S COLLECTION</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Stay Connected Section -->
+    <mj-section padding="25px 20px 10px 20px">
+      <mj-column>
+        <mj-text align="center" color="#0e2f44" font-size="18px" font
