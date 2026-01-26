@@ -1,0 +1,116 @@
+```mjml
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="Helvetica, Arial, sans-serif" color="#000000" font-size="15px" line-height="22px" />
+      <mj-button font-family="Helvetica, Arial, sans-serif" font-weight="bold" border-radius="3px" />
+      <mj-class name="section-title" font-size="24px" font-weight="bold" color="#71b9c9" />
+      <mj-class name="section-subtitle" font-size="20px" font-weight="bold" color="#ffffff" />
+      <mj-class name="orange-bg-text" background-color="#f69061" padding="10px 20px" font-weight="700" font-size="18px" color="#fff" border-radius="4px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="600px" background-color="#ffffff">
+
+    <!-- Header Section -->
+    <mj-section background-color="#1c1c51" padding="30px 25px">
+      <mj-column width="100%">
+        <mj-image src="https://placehold.co/40x40/orange/ffffff/png?text=Logo" alt="Spirit Valley Medical Logo" width="40px" padding="0 0 15px 0" />
+        <mj-text font-size="12px" line-height="15px" color="#ffffff" padding="0 0 20px 0" font-weight="600">Spirit Valley Medical</mj-text>
+        <mj-text font-size="11px" font-style="italic" line-height="15px" color="#c4c4c4" padding="0 0 25px 0">Your health is our investment</mj-text>
+        <mj-text css-class="section-title" padding="0 0 20px 0" font-weight="700" line-height="32px">
+          Welcome to Spirit Valley Medical Center
+        </mj-text>
+        <mj-text color="#d1d4e7" font-size="13px" line-height="20px" padding="0 0 0 0" letter-spacing="0" font-weight="400">
+          Spirit Valley Medical Center is a cutting-edge facility ready to care for you. You’ll find the best physicians, backed by the most up-to-date research, tending to you in a newly renovated hospital. You’ll also find yourself engaged with a community that’s focused on better living, improved health and healthy habits. Read on to learn what’s coming soon to Spirit Valley Medical Center.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- What's happening title -->
+    <mj-section padding="30px 25px 0 25px">
+      <mj-column width="100%">
+        <mj-text font-weight="700" font-size="16px" padding="0" line-height="20px">
+          What’s happening in our community?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- October Section -->
+    <mj-section padding="15px 25px 0 25px">
+      <mj-column width="130px">
+        <mj-text css-class="orange-bg-text" align="left" padding="10px 5px 10px 10px">October</mj-text>
+      </mj-column>
+      <mj-column width="auto">
+        <mj-text padding="10px 0 0 10px" font-size="12px">
+          <strong>October 8-14 is Mental Illness Awareness Week with World Mental Health Day on October 12.</strong><br />
+          The FHT offers many services to provide you with support. Discuss your concerns with your doctor, nurse practitioner or clinic nurse who all have training and experience in helping people with mental health concerns. This may include counselling, lifestyle advice and medications. They may also refer you to a community program or to one of our social workers, psychologist or psychology interns from Lansdowne University. You will be assessed and matched to a treatment.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- November Section -->
+    <mj-section padding="25px 25px 0 25px">
+      <mj-column width="130px">
+        <mj-text css-class="orange-bg-text" align="left" padding="10px 5px 10px 10px">November</mj-text>
+      </mj-column>
+      <mj-column width="auto">
+        <mj-text padding="10px 0 0 10px" font-size="12px">
+          <strong>November is Lung Cancer Awareness Month.</strong> The majority (83%) of lung cancer cases are directly related to smoking tobacco, particularly cigarettes. If you are interested in quitting, ask your provider for a referral to the Smoking Cessation Clinic. Our services include a 1-hour group education session, with follow up options for 1-1 counselling with a nurse trained to help you quit smoking. You may also be eligible for free Nicotine Replacement Therapy through the TAMH STOP study.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Masks Image Row -->
+    <mj-section background-color="#ffffff" padding="30px 25px 20px 25px">
+      <mj-column width="20%">
+        <mj-image src="https://placehold.co/80x80/png?text=Mask1" alt="Person1 wearing mask" width="80px" padding="0" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image src="https://placehold.co/80x80/png?text=Mask2" alt="Person2 wearing mask" width="80px" padding="0" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image src="https://placehold.co/80x80/png?text=Mask3" alt="Person3 wearing mask" width="80px" padding="0" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image src="https://placehold.co/80x80/png?text=Mask4" alt="Person4 wearing mask" width="80px" padding="0" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image src="https://placehold.co/80x80/png?text=Mask5" alt="Person5 wearing mask" width="80px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Flu season blue bar -->
+    <mj-section background-color="#81c9d9" padding="20px 25px">
+      <mj-column width="100%">
+        <mj-text align="center" font-weight="700" font-size="20px" color="#10313b" padding="0 0 8px 0">Flu season is almost here!</mj-text>
+        <mj-text align="center" color="#10313b" font-size="12px" line-height="18px" padding="0 25px 0 25px">
+          Every year, the flu virus infects thousands of people and hospital visits increase significantly.<br />
+          There is often misinformation about the flu, vaccinations, and other preventive measures.<br />
+          We’ve provided a brief explainer on the flu and what you need to know.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- What is the Flu? -->
+    <mj-section padding="20px 25px 0 25px">
+      <mj-column width="40px">
+        <mj-image src="https://placehold.co/40x40/png?text=🦠" alt="Flu virus icon" width="40px" padding="0" />
+      </mj-column>
+      <mj-column width="520px">
+        <mj-text font-weight="700" font-size="18px" padding="0 0 8px 0">What is the Flu?</mj-text>
+        <mj-text font-size="12px" line-height="18px" padding="0">
+          Influenza (the “Flu”) is a highly contagious virus spread through direct contact and more commonly through droplets or particles in the air from sneezing/coughing and talking. When you come in contact with these droplets, they can enter your body via the eyes, nose and mouth and infect you with the flu. Each year, it is estimated that influenza is responsible for 120,000 hospital admissions and 30,000 deaths nationwide.<br /><br />
+          The flu virus can spread before the onset of symptoms and even before you realize you are sick. Symptoms typically appear about 1-5 days after you’ve been exposed to the virus.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-color="#d0d0d0" padding="0" />
+
+    <!-- What are common flu symptoms? -->
+    <mj-section padding="20px 25px 0 25px">
+      <mj-column width="40px">
+        <mj-image src="https://placehold.co/40x40/png?text=🌡️" alt="Thermometer icon" width="40px" padding="0" />
+      </mj-column>
+      <mj-column width="520px">
+        <mj-text font-weight="700" font-size="18px" padding="0 0 8px 0">What are common flu
