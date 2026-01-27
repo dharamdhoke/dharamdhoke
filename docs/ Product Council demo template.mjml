@@ -1,0 +1,167 @@
+```xml
+<mjml>
+  <mj-body width="600px" >
+    <!-- Header -->
+    <mj-section background-color="#333333" padding="25px 30px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-weight="400" font-size="11px" font-family="Arial, sans-serif" padding="0 0 5px 0">
+          SAMSON AND SONS
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-weight="600" font-size="28px" letter-spacing="1px" font-family="Arial, sans-serif" padding="0 0 6px 0">
+          NEWSLETTER ISSUE NO. 15
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-weight="600" font-size="16px" font-family="Arial, sans-serif" padding="0">
+          July 14–21, 2020
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Thoughts From The CEO -->
+    <mj-section background-color="#f5f7f8" padding="20px 30px">
+      <mj-column>
+        <mj-text align="center" color="#333333" font-weight="700" font-size="18px" font-family="Arial, sans-serif" padding="0 0 15px 0">
+          THOUGHTS FROM THE CEO
+        </mj-text>
+        <mj-section padding="0">
+          <mj-column width="100px" vertical-align="middle" padding="0 15px 0 15px">
+            <mj-image 
+              src="https://placehold.co/70x70?text=IMG" 
+              alt="CEO" 
+              width="70px" 
+              height="70px" 
+              padding="0"
+              border-radius="50%"
+            />
+          </mj-column>
+          <mj-column padding="0 0 0 0" vertical-align="middle">
+            <mj-text 
+              align="center" 
+              color="#333333" 
+              font-family="Georgia, serif" 
+              font-style="italic" 
+              font-size="15px" 
+              padding="0"
+              line-height="1.4"
+              >
+              <p style="margin:0;font-weight:700;">Edgar Samson</p>
+              <p style="margin:10px 0 0 0;">
+                “At Samson &amp; Sons, we value leadership that produces results, but also retains our talented staff and keeps them motivated to do their absolute best. The question of what makes a good leader then comes down to how does a leader ensure sustainable productivity? We’ve looked at leaders from a number of largely successful companies, along with very mature startups, and found that there are 6 key traits all good leaders possess. For this week’s newsletter, we’ve decided to share them with you.”
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+    <!-- Section Title -->
+    <mj-section background-color="#333333" padding="15px 30px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-family="Arial, sans-serif" font-weight="700" font-size="21px" padding="0" >
+          6 SIGNS OF A STRONG LEADER
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Item 1 -->
+    <mj-section background-color="#f65353" padding="20px 30px">
+      <mj-column width="120px">
+        <mj-image 
+          src="https://placehold.co/60x60?text=I1" 
+          alt="Leaders Don’t Crave Credit" 
+          width="60px"
+          padding="0"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#4d080e" font-weight="700" font-family="Georgia, serif" font-size="16px" padding="0 0 8px 0" line-height="1.2">
+          Leaders Don’t Crave Credit
+        </mj-text>
+        <mj-text align="left" color="#4d080e" font-family="Georgia, serif" font-size="13.5px" line-height="1.4" padding="0">
+          A good leader doesn’t mind receiving credit. But their desire to get credit is nonexistent. Instead, a leader is more concerned with the work at hand and completing it to the best of their ability.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Item 2 -->
+    <mj-section background-color="#60d1d8" padding="20px 30px">
+      <mj-column width="120px">
+        <mj-image 
+          src="https://placehold.co/60x60?text=I2" 
+          alt="More Coach, Less Player" 
+          width="60px"
+          padding="0"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#004445" font-weight="700" font-family="Georgia, serif" font-size="16px" padding="0 0 8px 0" line-height="1.2">
+          More Coach, Less Player
+        </mj-text>
+        <mj-text align="left" color="#004445" font-family="Georgia, serif" font-size="13.5px" line-height="1.4" padding="0">
+          The work leaders do is important, but the quality of work from the team is more important. Good leaders care considerably more about fostering an environment that brings out the best from the team.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Item 3 -->
+    <mj-section background-color="#f9ea65" padding="20px 30px">
+      <mj-column width="120px">
+        <mj-image 
+          src="https://placehold.co/60x60?text=I3" 
+          alt="Emotional Intelligence" 
+          width="60px"
+          padding="0"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#5a5200" font-weight="700" font-family="Georgia, serif" font-size="16px" padding="0 0 8px 0" line-height="1.2">
+          Emotional Intelligence
+        </mj-text>
+        <mj-text align="left" color="#5a5200" font-family="Georgia, serif" font-size="13.5px" line-height="1.4" padding="0">
+          Good leaders understand how they can make people feel in their presence. With that understanding a leader engages his/her team in a way that fosters a healthy, working relationship.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Item 4 -->
+    <mj-section background-color="#f65353" padding="20px 30px">
+      <mj-column width="120px">
+        <mj-image 
+          src="https://placehold.co/60x60?text=I4" 
+          alt="Driven by Curiosity"
+          width="60px"
+          padding="0"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#4d080e" font-weight="700" font-family="Georgia, serif" font-size="16px" padding="0 0 8px 0" line-height="1.2">
+          Driven by Curiosity
+        </mj-text>
+        <mj-text align="left" color="#4d080e" font-family="Georgia, serif" font-size="13.5px" line-height="1.4" padding="0">
+          Good leaders give people the benefit of the doubt, they do not feel inclined to make negative assumptions about others. Instead, they like to learn more about the team.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Item 5 -->
+    <mj-section background-color="#60d1d8" padding="20px 30px">
+      <mj-column width="120px">
+        <mj-image 
+          src="https://placehold.co/60x60?text=I5" 
+          alt="Considers the Long-Term"
+          width="60px"
+          padding="0"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#004445" font-weight="700" font-family="Georgia, serif" font-size="16px" padding="0 0 8px 0" line-height="1.2">
+          Considers the Long-Term
+        </mj-text>
+        <mj-text align="left" color="#004445" font-family="Georgia, serif" font-size="13.5px" line-height="1.4" padding="0">
+          Good leaders care about being productive today and getting things done before the end of the week. But they also care about the overall timescale, the impact of their present actions on the future.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Item 6 -->
+    <mj-section background-color="#f9ea65" padding="20px 30px">
+      <mj-column width="120px">
