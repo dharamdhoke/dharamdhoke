@@ -1,0 +1,275 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+      <mj-text padding="0" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" width="600px">
+    <!-- Header with logo and company name -->
+    <mj-section background-color="#0d3d61" padding="20px 0 10px 0">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-image
+          src="https://placehold.co/24x24/1ca39d/1ca39d.png?text=%F0%9F%93%8E"
+          alt="Elite Financial Logo"
+          width="24px"
+          height="24px"
+          padding="0 10px 0 0"
+          align="left"
+        ></mj-image>
+        <mj-text
+          align="left"
+          font-size="14px"
+          color="#fff"
+          font-weight="600"
+          padding="0"
+          vertical-align="middle"
+          line-height="24px"
+        >
+          ELITE FINANCIAL
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0d3d61" padding="0 0 20px 0">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#1ca39d"
+          font-size="20px"
+          font-weight="600"
+          line-height="28px"
+          padding="0 25px"
+        >
+          Reopening Our Offices:<br />Interim Guidance For Employees
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f6f9fc" padding="30px 30px 30px 30px">
+      <mj-column width="100%">
+        <mj-text
+          align="left"
+          color="#000000"
+          font-size="14px"
+          line-height="20px"
+          padding="0 0 15px 0"
+        >
+          Dear team,
+        </mj-text>
+        <mj-text
+          align="left"
+          color="#000000"
+          font-size="14px"
+          line-height="20px"
+          padding="0 0 15px 0"
+        >
+          In light of positive developments over the last few weeks, Elite Financial is reopening its offices. However, we will enforce protocols that uphold the safety and health of our team and clients in mind.
+        </mj-text>
+        <mj-text
+          align="left"
+          color="#000000"
+          font-size="14px"
+          line-height="20px"
+          padding="0"
+        >
+          We will provide detailed protocols in the coming days. However, the below chart outlines expectations for returning and being in the office day after day. Please take note of these expectations prior to your return to the office.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0d3d61" padding="0 30px 25px 30px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-image
+          src="https://placehold.co/540x120?text=Illustration"
+          alt="Office illustration"
+          width="540px"
+          padding="0"
+          align="center"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0d3d61" padding="10px 30px 30px 30px">
+      <mj-column width="100%">
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="20px"
+          font-weight="600"
+          padding="0"
+          line-height="28px"
+        >
+          The Do's and The Don’ts<br />When Returning To Work
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0d3d61" padding="0 30px 40px 30px">
+      <!-- Left column for The Do's -->
+      <mj-column background-color="#ffffff" padding="30px" border-radius="6px" width="50%">
+        <mj-text
+          align="center"
+          color="#1ca39d"
+          font-size="22px"
+          font-weight="600"
+          padding="0 0 20px 0"
+        >
+          The Do's
+        </mj-text>
+
+        <!-- Do maintain good personal hygiene -->
+        <mj-table padding="0 0 12px 0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/1ca39d/1ca39d.png?text=%F0%9F%9B%94" alt="shower icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Do maintain good personal hygiene</td>
+          </tr>
+        </mj-table>
+
+        <!-- Do wash your hands with soap and water -->
+        <mj-table padding="0 0 12px 0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/1ca39d/1ca39d.png?text=%E2%97%BD" alt="hands washing icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Do wash your hands with soap and water</td>
+          </tr>
+        </mj-table>
+
+        <!-- Do cover your mouth while coughing, sneezing, and yawning -->
+        <mj-table padding="0 0 12px 0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/1ca39d/1ca39d.png?text=%F0%9F%98%AE" alt="face mask icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Do cover your mouth while coughing, sneezing, and yawning</td>
+          </tr>
+        </mj-table>
+
+        <!-- Do clean your hands with alcohol-based hand sanitizer -->
+        <mj-table padding="0 0 12px 0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/1ca39d/1ca39d.png?text=%F0%9F%92%A6" alt="hand sanitizer icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Do clean your hands with alcohol-based hand sanitizer</td>
+          </tr>
+        </mj-table>
+
+        <!-- Do see a doctor if you are feeling sick -->
+        <mj-table padding="0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/1ca39d/1ca39d.png?text=%E2%99%80" alt="doctor icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Do see a doctor if you are feeling sick</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+
+      <!-- Right column for The Dont's -->
+      <mj-column background-color="#ffffff" padding="30px" border-radius="6px" width="50%" padding-left="20px">
+        <mj-text
+          align="center"
+          color="#db6e63"
+          font-size="22px"
+          font-weight="600"
+          padding="0 0 20px 0"
+        >
+          The Dont's
+        </mj-text>
+
+        <!-- Don’t touch coworkers’ belongings -->
+        <mj-table padding="0 0 12px 0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/db6e63/db6e63.png?text=%E2%97%88" alt="desk icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Don’t touch coworkers’ belongings</td>
+          </tr>
+        </mj-table>
+
+        <!-- Don't forget to wash your hands when switching tasks -->
+        <mj-table padding="0 0 12px 0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/db6e63/db6e63.png?text=%E2%9A%9C" alt="cross icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Don't forget to wash your hands when switching tasks</td>
+          </tr>
+        </mj-table>
+
+        <!-- Don't have contact with live animals or raw/under cooked meat -->
+        <mj-table padding="0 0 12px 0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/db6e63/db6e63.png?text=%F0%9F%8D%97" alt="fork icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Don't have contact with live animals or raw/under cooked meat</td>
+          </tr>
+        </mj-table>
+
+        <!-- Don’t go to work if you are having symptoms such as fever and cough -->
+        <mj-table padding="0 0 12px 0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/db6e63/db6e63.png?text=%F0%9F%8C%88" alt="thermometer icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Don’t go to work if you are having symptoms such as fever and cough</td>
+          </tr>
+        </mj-table>
+
+        <!-- Don't touch high traffic areas with your hands -->
+        <mj-table padding="0" color="#000000" font-size="14px" line-height="20px" width="100%">
+          <tr>
+            <td width="32" style="vertical-align:top; padding-right:8px;">
+              <img src="https://placehold.co/32x32/db6e63/db6e63.png?text=%E2%96%B6" alt="finger icon" width="32" height="32" />
+            </td>
+            <td style="vertical-align:middle;">Don't touch high traffic areas with your hands</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="20px 30px 20px 30px">
+      <mj-column width="100%">
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="#000"
+          padding="0 0 10px 0"
+          line-height="20px"
+        >
+          Thank you everyone for your continued hard work and patience through these strange and difficult times.
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="16px"
+          font-weight="600"
+          color="#1ca39d"
+          padding="0 0 10px 0"
+          line-height="22px"
+        >
+          From all of us at Elite Financial, stay safe!
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="#000"
+          padding="0"
+          line-height="20px"
+        >
+          For further information, call Elite Financial Corporation’s 24/7 helpline number 
+          <a href="tel:12025552191" style="color:#1ca39d; text-decoration:none;">1+ 202-555-2191</a> or email 
+          <a href="mailto:hr@elitefinance.com" style="color:#1ca39d; text-decoration:none;">hr@elitefinance.com</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0d3d61" padding="20px 30px 20px 30px">
+      <mj-column width="100%">
+        <mj-text
+          align="center"
+          font-size="10px"
