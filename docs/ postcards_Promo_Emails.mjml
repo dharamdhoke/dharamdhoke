@@ -1,0 +1,85 @@
+```mjml
+<mjml>
+  <mj-body background-color="#a8cce7" width="600px">
+    <mj-section background-color="#ffffff" padding="20px 10px">
+      <mj-column>
+        <mj-text align="center" font-size="28px" font-weight="700" color="#4b7586" padding="0">giftl<tspan style="color:#f89c2c">y</tspan></mj-text>
+        <mj-navbar hamburger="false" align="center" base-url="" padding="15px 0 0 0">
+          <mj-navbar-link href="#" font-size="14px" color="#4b7586" padding="0 25px">New!</mj-navbar-link>
+          <mj-navbar-link href="#" font-size="14px" color="#4b7586" padding="0 25px">Toys</mj-navbar-link>
+          <mj-navbar-link href="#" font-size="14px" color="#4b7586" padding="0 25px">Best Sellers</mj-navbar-link>
+          <mj-navbar-link href="#" font-size="14px" color="#4b7586" padding="0 25px">Sale</mj-navbar-link>
+          <mj-navbar-link href="#" font-size="14px" color="#4b7586" padding="0 25px">Valentines Day</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#d7e6f2" padding="60px 30px 50px 30px">
+      <mj-column>
+        <mj-text align="center" font-size="32px" font-weight="700" color="#232323" padding="0 0 10px 0" line-height="40px">We Appreciate Your <br /><span style="color:#4b7586">Subscription</span></mj-text>
+        <mj-text align="center" font-size="14px" color="#4b7586" padding="0 0 10px 0" line-height="20px">
+          The sale lasts from November 30th through December 31th.
+        </mj-text>
+        <mj-text align="center" font-size="14px" color="#4b7586" padding="0 0 25px 0" line-height="20px">
+          Our brand is marking its fifth anniversary. Join the celebration with us and enjoy a <strong>70% discount</strong> on all items, along with complimentary shipping.
+        </mj-text>
+        <mj-button background-color="#f89c2c" color="#ffffff" font-weight="700" padding="10px 40px" border-radius="6px" href="#" inner-padding="12px 20px">
+          Shop Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="60px 30px 70px 30px">
+      <mj-column>
+        <mj-image 
+          src="https://placehold.co/200x200/ffffff/e6b769.png?text=%20" 
+          alt="Gift box with golden bow"
+          width="200px"
+          padding="0 0 30px 0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0 30px 50px 30px">
+      <mj-column>
+        <mj-text align="center" font-size="15px" color="#232323" padding="0" line-height="22px">
+          Up to
+        </mj-text>
+        <mj-text align="center" font-size="40px" font-weight="900" color="#f89c2c" padding="0" line-height="48px">
+          70% OFF
+        </mj-text>
+        <mj-text align="center" font-size="19px" color="#4b7586" padding="5px 0 30px 0" line-height="24px">
+          All Items
+        </mj-text>
+        <mj-text align="center" font-size="14px" color="#4b7586" padding="0 0 40px 0" line-height="20px">
+          Our brand commemorates its fifth anniversary, and we invite you to join the festivities with us! As part of our celebration, revel in a generous <strong>70% discount</strong> on all items, coupled with complimentary shipping.
+        </mj-text>
+        <mj-button background-color="transparent" color="#4b7586" border="1px dotted #4b7586" font-weight="400" padding="10px 40px" border-radius="6px" href="#" inner-padding="6px 30px">
+          Enter Voucher Code : HHSJKJ
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#4b7586" padding="40px 30px 35px 30px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="20px" mode="horizontal" align="center" color="#e0e0e0" padding="0 0 20px 0">
+          <mj-social-element name="facebook" href="#"></mj-social-element>
+          <mj-social-element name="twitter" href="#" background-color="transparent"></mj-social-element>
+          <mj-social-element name="instagram" href="#"></mj-social-element>
+          <mj-social-element name="pinterest" href="#"></mj-social-element>
+        </mj-social>
+
+        <mj-text align="center" font-size="14px" color="#d5d9de" padding="0 0 20px 0" line-height="20px">
+          King Street, an iconic thoroughfare renowned for its historical significance, resides prominently at the address 2901 Marmara Road, within the vibrant cityscape of New York, WA 98122-1080.
+        </mj-text>
+
+        <mj-divider border-width="1px" border-color="#5e7b92" padding="0"></mj-divider>
+
+        <mj-text align="center" font-size="14px" color="#d5d9de" padding="15px 0 0 0" line-height="20px">
+          No longer want to receive these emails? <a href="#" style="color:#bec6ce; text-decoration:underline;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+```
