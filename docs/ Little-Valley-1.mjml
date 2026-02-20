@@ -1,0 +1,214 @@
+```mjml
+<mjml>
+  <mj-body background-color="#E6DFF3">
+    <mj-section padding="40px 0 0 0" background-color="#E6DFF3">
+      <mj-column>
+        <mj-text align="center" font-weight="700" font-size="14px" color="#000000" padding="0" font-family="Arial, sans-serif">
+          Little <span style="color:#9782C6;">Valley</span><br/>
+          <small style="letter-spacing:2px; font-weight:400; display:block; padding-top:3px;">S E N I O R &nbsp; H I G H</small>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 40px 25px 40px" background-color="#E6DFF3">
+      <mj-column>
+        <mj-text align="center" font-weight="900" font-size="25px" color="#1D1D1D" font-family="Arial Black, Arial, sans-serif" padding="0">
+          A New Adventure Awaits at <span style="color:#9782C6;">Little Valley</span><br/>High School
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 40px 40px 40px" background-color="#E6DFF3">
+      <mj-column>
+        <mj-image src="https://placehold.co/600x200?text=Students" alt="Students" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 50px 30px 50px" background-color="#F6F1F9">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#B7B7B7" padding="0"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F6F1F9" padding="0 50px 30px 50px">
+      <mj-column>
+        <mj-text align="center" font-weight="700" font-size="18px" color="#1D1D1D" font-family="Arial, sans-serif" padding="0 0 10px 0">
+          Hello <span style="color:#9782C6;">James!</span>
+        </mj-text>
+        <mj-text align="center" font-weight="400" font-size="13px" color="#3a3a3a" font-family="Arial, sans-serif" padding="0 0 0 0" line-height="20px">
+          Welcome back to another exciting year at Little Valley! We hope you had a fantastic summer and are ready to dive into a new year of learning and growth. We've got a lot of exciting things planned, and we can't wait to get started!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F6F1F9" padding="0 50px 30px 50px">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#B7B7B7" padding="0"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 40px 20px 40px" background-color="#F6F1F9">
+      <mj-column>
+        <mj-text align="center" font-weight="700" font-size="20px" color="#1D1D1D" font-family="Arial Black, Arial, sans-serif" padding="0 0 15px 0">
+          What’s New This Year?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 40px 40px 40px" background-color="#EAE3F5" border-radius="20px">
+      <mj-column>
+        <mj-text font-weight="700" font-size="14px" color="#1D1D1D" font-family="Arial, sans-serif" padding="20px 20px 10px 20px">
+          Meet The New Faces!
+        </mj-text>
+        <mj-text font-weight="400" font-size="12px" color="#3a3a3a" font-family="Arial, sans-serif" padding="0 20px 20px 20px" line-height="18px">
+          Meet your new teachers and staff members who are joining us this year.
+        </mj-text>
+
+        <!-- New Face 1 -->
+        <mj-section padding="0 20px 20px 20px" background-color="#EAE3F5">
+          <mj-column width="70px">
+            <mj-image src="https://placehold.co/70x70?text=Natasha" alt="Natasha Brooklyn" width="70px" padding="0" />
+          </mj-column>
+          <mj-column>
+            <mj-text font-weight="700" font-size="13px" color="#1D1D1D" font-family="Arial, sans-serif" padding="0 0 4px 0">
+              Natasha Brooklyns
+            </mj-text>
+            <mj-text font-weight="400" font-size="11px" color="#9782C6" font-family="Arial, sans-serif" padding="0 0 4px 0">
+              Biology
+            </mj-text>
+            <mj-text font-weight="400" font-size="11px" color="#3a3a3a" font-family="Arial, sans-serif" padding="0">
+              Mrs. Brooklyns will give you an exciting and fun teaching session.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- New Face 2 -->
+        <mj-section padding="0 20px 20px 20px" background-color="#EAE3F5">
+          <mj-column width="70px">
+            <mj-image src="https://placehold.co/70x70?text=Katrina" alt="Katrina Holmes" width="70px" padding="0" />
+          </mj-column>
+          <mj-column>
+            <mj-text font-weight="700" font-size="13px" color="#1D1D1D" font-family="Arial, sans-serif" padding="0 0 4px 0">
+              Katrina Holmes
+            </mj-text>
+            <mj-text font-weight="400" font-size="11px" color="#9782C6" font-family="Arial, sans-serif" padding="0 0 4px 0">
+              Mathematics
+            </mj-text>
+            <mj-text font-weight="400" font-size="11px" color="#3a3a3a" font-family="Arial, sans-serif" padding="0">
+              Mrs. Holmes teaches history with a reputable dedication to her work.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- New Face 3 -->
+        <mj-section padding="0 20px 20px 20px" background-color="#EAE3F5">
+          <mj-column width="70px">
+            <mj-image src="https://placehold.co/70x70?text=Edward" alt="Dr. Edward Hawkins" width="70px" padding="0" />
+          </mj-column>
+          <mj-column>
+            <mj-text font-weight="700" font-size="13px" color="#1D1D1D" font-family="Arial, sans-serif" padding="0 0 4px 0">
+              Dr. Edward Hawkins
+            </mj-text>
+            <mj-text font-weight="400" font-size="11px" color="#9782C6" font-family="Arial, sans-serif" padding="0 0 4px 0">
+              History
+            </mj-text>
+            <mj-text font-weight="400" font-size="11px" color="#3a3a3a" font-family="Arial, sans-serif" padding="0">
+              Dr. Hawkins is a reputable teacher from Dallas with lots of experience.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 40px 30px 40px" background-color="#F8D6AE" border-radius="15px">
+      <mj-column>
+        <mj-text font-weight="700" font-size="14px" color="#1D1D1D" font-family="Arial, sans-serif" padding="15px 20px 10px 20px">
+          Class Schedule
+        </mj-text>
+        <mj-text font-weight="400" font-size="11px" color="#3a3a3a" font-family="Arial, sans-serif" padding="0 20px 20px 20px" line-height="18px">
+          Our new class schedule is attached. Be sure to check it before the first day!
+        </mj-text>
+        <mj-button background-color="transparent" border="1px solid #000000" border-radius="30px" font-family="Arial, sans-serif" font-weight="700" font-size="11px" color="#000000" width="110px" padding="0 0 15px 20px" href="#" inner-padding="10px 15px">
+          Download
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 40px 30px 10px" background-color="#D3E192" border-radius="15px">
+      <mj-column>
+        <mj-text font-weight="700" font-size="14px" color="#1D1D1D" font-family="Arial, sans-serif" padding="15px 20px 10px 20px">
+          After School Program
+        </mj-text>
+        <mj-text font-weight="400" font-size="11px" color="#3a3a3a" font-family="Arial, sans-serif" padding="0 20px 20px 20px" line-height="18px">
+          Explore our after-school programs. Registration opens on 2nd July 2024
+        </mj-text>
+        <mj-button background-color="transparent" border="1px solid #000000" border-radius="30px" font-family="Arial, sans-serif" font-weight="700" font-size="11px" color="#000000" width="110px" padding="0 0 15px 20px" href="#" inner-padding="10px 15px">
+          View Activities
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 40px 40px 40px" background-color="#433870" border-radius="15px">
+      <mj-column width="120px">
+        <mj-image src="https://placehold.co/120x120?text=Principal+Garcia" alt="Principal Garcia" width="120px" padding="0" />
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="700" font-size="18px" color="#FFFFFF" font-family="Arial Black, Arial, sans-serif" padding="10px 20px 18px 20px">
+          Message from Principal Garcia
+        </mj-text>
+        <mj-text font-weight="400" font-size="13px" color="#FFFFFF" font-family="Arial, sans-serif" padding="0 20px 10px 20px" line-height="22px">
+          Welcome back! Each year, we set new goals to ensure we provide the best educational experience for our students. Your innovation, and professionalism are key to our success. Let’s make it outstanding!
+        </mj-text>
+        <mj-text font-weight="700" font-size="13px" color="#FFFFFF" font-family="Arial, sans-serif" padding="0 20px 10px 20px">
+          Emily Garcia
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0 15px 0" background-color="#E6DFF3">
+      <mj-column>
+        <mj-text align="center" font-weight="700" font-size="14px" color="#000000" padding="0" font-family="Arial, sans-serif">
+          Little <span style="color:#9782C6;">Valley</span><br/>
+          <small style="letter-spacing:2px; font-weight:400; display:block; padding-top:3px;">S E N I O R &nbsp; H I G H</small>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 10px 0" background-color="#E6DFF3">
+      <mj-column>
+        <mj-social font-size="16px" icon-size="22px" mode="horizontal" align="center" color="#9782C6" padding="0">
+          <mj-social-element name="facebook" href="#" background-color="transparent" padding="0 10px"></mj-social-element>
+          <mj-social-element name="twitter" href="#" background-color="transparent" padding="0 10px"></mj-social-element>
+          <mj-social-element name="instagram" href="#" background-color="transparent" padding="0 10px"></mj-social-element>
+          <mj-social-element name="youtube" href="#" background-color="transparent" padding="0 10px"></mj-social-element>
+          <mj-social-element name="tiktok" href="#" background-color="transparent" padding="0 10px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#E6DFF3" padding="0 30px 15px 30px">
+      <mj-column>
+        <mj-text font-weight="400" font-size="12px" color="#3a3a3a" font-family="Arial, sans-serif" align="center" padding="0 0 10px 0" line-height="20px">
+          You are receiving this email because you signed up with Little Valley Senior High Newsletter
+        </mj-text>
+        <mj-text font-weight="400" font-size="12px" color="#3a3a3a" font-family="Arial, sans-serif" align="center" padding="0 0 10px 0" line-height="20px">
+          Want to stop receiving messages from us? 
+          <a href="#" style="color:#9782C6; text-decoration:underline;">Unsubscribe</a>
+        </mj-text>
+        <mj-text font-weight="400" font-size="12px" color="#3a3a3a" font-family="Arial, sans-serif" align="center" padding="0" line-height="20px">
+          Manage Preference | View Online
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#E6DFF3" padding="0 0 25px 0">
+      <mj-column>
+        <mj-text align="center" font-weight="900" font-size="60px" color="#B7A7DA" font-family="Arial Black, Arial, sans-serif" padding="0" line-height="55px" css-class="watermark">
+          Little Valley
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
+```
