@@ -1,0 +1,78 @@
+```xml
+<mjml>
+  <mj-body background-color="#add8e6">
+    <mj-section background-color="#ffffff" padding="20px 0">
+      <mj-column>
+        <mj-text align="center" padding="0" font-size="30px" font-weight="bold" color="#3c6070" font-family="Arial, sans-serif">
+          gift<t span style="color:#f7941e">ly</t>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-navbar hamburger="none" base-url="" ico-color="#3c6070" ico-font-size="13px" ico-font-weight="normal" ico-padding="10px 15px" padding="0" align="center">
+          <mj-navbar-link href="#" font-size="14px" color="#3c6070" padding="0 10px">New!</mj-navbar-link>
+          <mj-navbar-link href="#" font-size="14px" color="#3c6070" padding="0 10px">Toys</mj-navbar-link>
+          <mj-navbar-link href="#" font-size="14px" color="#3c6070" padding="0 10px">Best Sellers</mj-navbar-link>
+          <mj-navbar-link href="#" font-size="14px" color="#3c6070" padding="0 10px">Sale</mj-navbar-link>
+          <mj-navbar-link href="#" font-size="14px" color="#3c6070" padding="0 10px">Valentines Day</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#d4e6f1" padding="30px 30px 40px 30px">
+      <mj-column>
+        <mj-text align="center" font-size="28px" font-weight="700" font-family="Arial, sans-serif" color="#121212" padding="0 0 12px 0">We Appreciate Your</mj-text>
+        <mj-text align="center" font-size="30px" font-weight="700" font-family="Arial, sans-serif" color="#5a7586" padding="0 0 15px 0">Subscription</mj-text>
+        <mj-text align="center" font-size="14px" color="#4a4a4a" padding="0 0 20px 0" font-family="Arial, sans-serif" line-height="20px">
+          The sale lasts from November 30th through December 31th.
+        </mj-text>
+        <mj-text align="center" font-size="14px" color="#4a4a4a" padding="0 0 30px 0" font-family="Arial, sans-serif" line-height="20px">
+          Our brand is marking its fifth anniversary. Join the celebration with us and enjoy a <strong>70% discount</strong> on all items, along with complimentary shipping.
+        </mj-text>
+        <mj-button href="#" background-color="#f7941e" font-family="Arial, sans-serif" font-weight="700" font-size="18px" padding="12px 25px" border-radius="5px" inner-padding="10px 20px">Shop Now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="30px 30px 35px 30px">
+      <mj-column>
+        <mj-image src="https://placehold.co/318x280/png" alt="Gift Box" width="318px" padding="0 0 20px 0"></mj-image>
+        <mj-text align="center" font-size="14px" font-family="Arial, sans-serif" color="#121212" padding="0 0 5px 0">Up to</mj-text>
+        <mj-text align="center" font-size="36px" font-weight="700" font-family="Arial, sans-serif" color="#f7941e" padding="0 0 5px 0">70% OFF</mj-text>
+        <mj-text align="center" font-size="18px" font-family="Arial, sans-serif" color="#5a7586" padding="0 0 22px 0">All Items</mj-text>
+        <mj-text align="center" font-size="14px" font-family="Arial, sans-serif" color="#3a3a3a" padding="0 15px 25px 15px" line-height="20px">
+          Our brand commemorates its fifth anniversary, and we invite you to join the festivities with us! As part of our celebration, revel in a generous <strong>70% discount</strong> on all items, coupled with complimentary shipping.
+        </mj-text>
+        <mj-button href="#" background-color="transparent" border="1px dotted #5a7586" font-family="Arial, sans-serif" font-weight="400" font-size="14px" color="#5a7586" padding="10px 15px" border-radius="5px" inner-padding="12px 20px">
+          Enter Voucher Code : HHSJKJ
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#4a7586" padding="30px 20px 20px 20px">
+      <mj-column width="25px">
+        <mj-image src="https://placehold.co/20x20/png?text=f" alt="facebook" width="20px" padding="0 5px"></mj-image>
+      </mj-column>
+      <mj-column width="25px">
+        <mj-image src="https://placehold.co/20x20/png?text=x" alt="twitter" width="20px" padding="0 5px"></mj-image>
+      </mj-column>
+      <mj-column width="25px">
+        <mj-image src="https://placehold.co/20x20/png?text=i" alt="instagram" width="20px" padding="0 5px"></mj-image>
+      </mj-column>
+      <mj-column width="25px">
+        <mj-image src="https://placehold.co/20x20/png?text=p" alt="pinterest" width="20px" padding="0 5px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#4a7586" padding="0 20px 20px 20px">
+      <mj-column>
+        <mj-text align="center" color="#d8e7f1" font-size="14px" font-family="Arial, sans-serif" padding="0 0 15px 0" line-height="20px">
+          King Street, an iconic thoroughfare renowned for its historical significance, resides prominently at the address 2901 Marmara Road, within the vibrant cityscape of New York, WA 98122-1080.
+        </mj-text>
+        <mj-divider border-color="#6b8ba0" border-width="1px" padding="0" />
+        <mj-text align="center" color="#d8e7f1" font-size="14px" font-family="Arial, sans-serif" padding="20px 0 0 0">
+          No longer want to receive these emails? <a href="#" style="color:#d8e7f1; text-decoration: underline;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+```
