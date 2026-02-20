@@ -1,0 +1,205 @@
+```mjml
+<mjml>
+  <mj-body background-color="#b87167" width="600px">
+    <mj-section padding="20px 0 10px 0" background-color="#000000">
+      <mj-column>
+        <mj-text align="left" color="#fff" font-weight="bold" font-family="Georgia, serif" font-size="18px" padding="0 20px">
+          Shoply.<i>co</i>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right" color="#fff" font-size="14px" padding="0 20px" font-family="Arial, sans-serif">
+          <a href="#" style="color:#fff; text-decoration:none;">All Product</a> &nbsp;&nbsp;
+          <a href="#" style="color:#fff; text-decoration:none;">Offers</a> &nbsp;&nbsp;
+          <a href="#" style="color:#fff; text-decoration:none;">Contact</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2e7e4" padding="20px 20px 0 20px">
+      <mj-column>
+        <mj-text align="center" font-family="Arial, sans-serif" font-size="12px" color="#000" padding="0 0 10px 0">
+          YOUR SPRING PICKS ARE WAITING! 🌸
+        </mj-text>
+        <mj-text align="center" font-family="Georgia, serif" font-weight="bold" font-size="26px" color="#000" padding="0 0 20px 0" line-height="1.2">
+          Don't let your favorites <br />bloom without you!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0 20px 30px 20px">
+      <mj-column>
+        <mj-image src="https://placehold.co/600x50?text=Man+Above+Sign" alt="Man Peeking" width="600px" padding="0" />
+      </mj-column>
+
+      <mj-column>
+        <mj-text align="center" font-family="Georgia, serif" font-weight="bold" font-style="normal" font-size="18px" color="#000" padding="15px 0 12px 0" line-height="1.3">
+          Spring brings fresh <i>beginnings-<b>your cart <br />is waiting!</b></i>
+        </mj-text>
+        <mj-text align="center" font-family="Arial, sans-serif" font-size="14px" color="#666666" padding="0 0 12px 0">
+          Come back and complete your order before <br />these seasonal favorites disappear.
+        </mj-text>
+      </mj-column>
+
+      <mj-divider border-width="1px" border-color="#ddd" padding="0" />
+
+      <mj-section padding="10px 0 10px 0" background-color="#ffffff">
+        <mj-column width="30%">
+          <mj-image src="https://placehold.co/120x90?text=Diffuser" alt="Aromatherapy diffuser" width="120px" padding="0" />
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="0 0 0 10px">
+          <mj-text font-family="Arial, sans-serif" font-size="16px" color="#000" padding="0" line-height="1.3">
+            Aromatherapy diffuser<br />
+            <span style="font-weight:normal; font-size:14px;">$29.99</span><br />
+            Qty: 1 &nbsp;&nbsp;<a href="#" style="font-size:14px; color:#444; text-decoration:underline;">View item</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-divider border-width="1px" border-color="#ddd" padding="0" />
+
+      <mj-section padding="10px 0 10px 0" background-color="#ffffff">
+        <mj-column width="30%">
+          <mj-image src="https://placehold.co/120x90?text=Mug" alt="Handcrafted ceramic mug" width="120px" padding="0" />
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="0 0 0 10px">
+          <mj-text font-family="Arial, sans-serif" font-size="16px" color="#000" padding="0" line-height="1.3">
+            Handcrafted ceramic mug<br />
+            <span style="font-weight:normal; font-size:14px;">$29.99</span><br />
+            Qty: 1 &nbsp;&nbsp;<a href="#" style="font-size:14px; color:#444; text-decoration:underline;">View item</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-divider border-width="1px" border-color="#ddd" padding="0" />
+
+      <mj-section padding="10px 0 15px 0" background-color="#ffffff">
+        <mj-column width="30%">
+          <mj-image src="https://placehold.co/120x90?text=Candle" alt="Lavender soy candle" width="120px" padding="0" />
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="0 0 0 10px">
+          <mj-text font-family="Arial, sans-serif" font-size="16px" color="#000" padding="0" line-height="1.3">
+            Lavender soy candle<br />
+            <span style="font-weight:normal; font-size:14px;">$29.99</span><br />
+            Qty: 3 &nbsp;&nbsp;<a href="#" style="font-size:14px; color:#444; text-decoration:underline;">View item</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-divider border-width="1px" border-color="#ddd" padding="0" />
+
+      <mj-section padding="10px 20px 10px 20px" background-color="#ffffff">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, sans-serif" font-size="14px" color="#555" padding="5px 0" align="left">
+            Subtotal
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, sans-serif" font-size="14px" color="#555" padding="5px 0" align="right">
+            $64.97
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 20px 10px 20px" background-color="#ffffff">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, sans-serif" font-size="14px" color="#555" padding="5px 0" align="left">
+            Estimated Delivery
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, sans-serif" font-size="14px" color="#555" padding="5px 0" align="right">
+            Free
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 20px 20px 20px" background-color="#ffffff">
+        <mj-column width="50%">
+          <mj-text font-family="Arial, sans-serif" font-size="16px" font-weight="bold" color="#000" padding="5px 0" align="left">
+            Total
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-family="Arial, sans-serif" font-size="16px" font-weight="bold" color="#000" padding="5px 0" align="right">
+            $149.95
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 20px 20px 20px">
+        <mj-column>
+          <mj-button background-color="#b87167" color="#ffffff" font-family="Arial, sans-serif" font-size="16px" inner-padding="12px 0" padding="0" border-radius="0" align="center" href="#">
+            COMPLETE YOUR ORDER
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-section>
+
+    <mj-section background-color="#f2e7e4" padding="10px 20px 20px 20px">
+      <mj-column>
+        <mj-text align="center" font-family="Georgia, serif" font-weight="bold" font-size="20px" color="#000" padding="0 0 25px 0" line-height="1.3">
+          Benefit of shopping with us
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2e7e4" padding="0 40px 20px 40px">
+      <mj-column width="33%">
+        <mj-image src="https://placehold.co/32x32?text=🚚" alt="Free Shipping" width="32px" padding="0 0 10px 0" />
+        <mj-text font-family="Arial, sans-serif" font-size="14px" color="#b87167" align="center" padding="0">
+          Free<br />Shipping
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-image src="https://placehold.co/32x32?text=↻" alt="Free Exchange" width="32px" padding="0 0 10px 0" />
+        <mj-text font-family="Arial, sans-serif" font-size="14px" color="#b87167" align="center" padding="0">
+          Free<br />Exchange
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-image src="https://placehold.co/32x32?text=✔" alt="Made to Order" width="32px" padding="0 0 10px 0" />
+        <mj-text font-family="Arial, sans-serif" font-size="14px" color="#b87167" align="center" padding="0">
+          Made to<br />Order
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2e7e4" padding="0 20px 25px 20px">
+      <mj-column>
+        <mj-text font-family="Georgia, serif" font-weight="bold" font-size="18px" color="#000" padding="0 0 15px 0" align="left">
+          Shoply.<i>co</i>
+        </mj-text>
+        <mj-image src="https://placehold.co/600x150?text=Diffuser+Candle+Mug" alt="Product Display" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2e7e4" padding="10px 0 30px 0">
+      <mj-column width="33%" />
+      <mj-column width="11.1%">
+        <mj-image src="https://placehold.co/24x24?text=🎵" alt="TikTok" width="24px" padding="0" />
+      </mj-column>
+      <mj-column width="11.1%">
+        <mj-image src="https://placehold.co/24x24?text=▶" alt="YouTube" width="24px" padding="0" />
+      </mj-column>
+      <mj-column width="11.1%">
+        <mj-image src="https://placehold.co/24x24?text=a" alt="Amazon" width="24px" padding="0" />
+      </mj-column>
+      <mj-column width="33%" />
+    </mj-section>
+
+    <mj-section background-color="#f2e7e4" padding="0 15px 40px 15px">
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-size="13px" color="#000" align="center" padding="0 0 5px 0" line-height="1.3">
+          Update your email&nbsp;
+          <a href="#" style="color:#b87167; font-weight:bold; text-decoration:underline;">preferences</a>
+          &nbsp;anytime or&nbsp;
+          <a href="#" style="color:#b87167; font-weight:bold; text-decoration:underline;">unsubscribe</a>
+          &nbsp;with ease. Learn more in our&nbsp;
+          <a href="#" style="color:#b87167; font-weight:bold; text-decoration:underline;">privacy policy</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+```
